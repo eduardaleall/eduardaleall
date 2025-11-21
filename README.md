@@ -6,7 +6,7 @@
 
 ```javascript
 const desenvolvedor = {
-    formação: "Engenharia de Software - UCSal",
+    formação: "Cursando Engenharia de Software",
     localização: "Salvador, BA",
     focoAtual: "Desenvolvimento Full Stack",
     objetivo: " Desenvolver e aprimorar minhas habilidades "
