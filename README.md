@@ -39,7 +39,7 @@ const desenvolvedor = {
 
 </div>
 
-# Estátisticas
+### Estátisticas
 <p align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=eduardaleall&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
