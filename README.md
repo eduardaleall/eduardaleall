@@ -5,7 +5,7 @@
 </div>
 
 ```javascript
-const desenvolvedor = {
+const desenvolvedora = {
     formação: "Cursando Engenharia de Software",
     localização: "Salvador, BA",
     focoAtual: "Desenvolvimento Full Stack",
